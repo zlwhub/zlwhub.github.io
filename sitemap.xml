@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zlwhub.com/about/index.html</loc>
+    <loc>https://blog.zlwhub.com/categories/index.html</loc>
     
     <lastmod>2023-08-12</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zlwhub.com/categories/index.html</loc>
+    <loc>https://blog.zlwhub.com/about/index.html</loc>
     
     <lastmod>2023-08-12</lastmod>
     
@@ -65,14 +65,14 @@
 
   
   <url>
-    <loc>https://blog.zlwhub.com/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://blog.zlwhub.com/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.zlwhub.com/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <loc>https://blog.zlwhub.com/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -88,14 +88,14 @@
 
   
   <url>
-    <loc>https://blog.zlwhub.com/categories/%E6%9D%82%E6%96%87/</loc>
+    <loc>https://blog.zlwhub.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://blog.zlwhub.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://blog.zlwhub.com/categories/%E6%9D%82%E6%96%87/</loc>
     <lastmod>2024-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
